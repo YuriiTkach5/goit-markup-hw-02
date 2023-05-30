@@ -3,6 +3,7 @@
     --background-color: #FFFFFF;
     --menu-text: #404BBF;
     --text-h2-h3-p: #2E2F42;
+    --team-item-text: #434455;
 }
 
 body {
@@ -194,7 +195,7 @@ font-size: 16px;
 line-height: 1.5;
 text-align: center;
 letter-spacing: 0.02em;
-color: var(--text-h2-h3-p);
+color: var(--team-item-text);
 }
 
 /*---------footer---------*/
