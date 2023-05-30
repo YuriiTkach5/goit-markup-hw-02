@@ -20,11 +20,8 @@ line-height: 1.16;
 letter-spacing: 0.03em;
 color: #2E2F42;
 }
-.header-web-color {
-color: #4D5AE5;
-}
 
-.header-web-list {
+.header-web-menu{
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
