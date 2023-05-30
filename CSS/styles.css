@@ -1,13 +1,13 @@
 
 :root {
     --background-color: #FFFFFF;
-    --text-color: #434455;
     --menu-text: #404BBF;
 }
 
 body {
 font-family: 'Raleway', sans-serif;
 font-family: 'Roboto', sans-serif;
+color: #434455;
 background-color: var(--background-color);
 }
 
