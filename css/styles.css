@@ -50,8 +50,12 @@ letter-spacing: 0.02em;
 color: #2E2F42;
 }
 
-.header-web-menu:hover:focus {
+.header-web-menu:hover{
  color: #404bbf;
+}
+
+.header-web-menu:focus {
+    color: #404bbf;
 }
 
 .address {
