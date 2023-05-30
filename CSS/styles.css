@@ -21,6 +21,10 @@ letter-spacing: 0.03em;
 color: #2E2F42;
 }
 
+.header-web-color{
+color: #4D5AE5;
+}
+
 .header-web-menu{
 font-weight: 500;
 font-size: 16px;
@@ -127,4 +131,21 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
+}
+
+/*---------footer---------*/
+
+.footer-main {
+font-weight: 800;
+font-size: 18px;
+line-height: 21.17
+letter-spacing: 0.03em;
+color: #F4F4FD;
+}
+
+.footer-color {
+color: #4D5AE5;
+}
+
+.footer-text {
 }
