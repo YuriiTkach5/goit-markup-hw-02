@@ -54,6 +54,10 @@ color: #2E2F42;
  color: #404bbf;
 }
 
+.address {
+font-style: normal;
+}
+
 .header-address-item {
 font-weight: 400;
 font-size: 16px;
