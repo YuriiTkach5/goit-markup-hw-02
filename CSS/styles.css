@@ -1,0 +1,133 @@
+body {
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.link {
+text-decoration: none;
+}
+
+/*--------- HEADER---------*/
+
+.header-web {
+font-weight: 800;
+font-size: 18px;
+line-height: 1.16;
+letter-spacing: 0.03em;
+color: #2E2F42;
+}
+.header-web-color {
+color: #4D5AE5;
+}
+
+.header-web-list {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.header-address-item {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+/*--------- HOME---------*/
+
+.home {
+background-color: #434455;
+}
+
+.home-title {
+ font-weight: 700;
+ font-size: 56px;
+ line-height: 1.07;
+ letter-spacing: 0.02em;
+ color: #FFFFFF;
+}
+
+.home-btn {
+    background-color: #434455;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+ color: #FFFFFF;
+}
+
+/*--------- StraTech---------*/
+
+.StraTech {}
+
+.StraTech-list {}
+
+.StraTech-item {
+}
+
+.StraTech-subtitle {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.StraTech-item-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1,5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+/*---------What---------*/
+
+.what {}
+
+.what-title {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.what-img {}
+
+/*---------team---------*/
+
+.team {}
+
+.team-main {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.team-item {}
+
+.team-subtitle {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.team-item-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
