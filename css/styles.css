@@ -161,7 +161,9 @@ color: var(--text-h2-h3-p);
 
 /*---------team---------*/
 
-.team {}
+.team {
+background-color: #F4F4FD;
+}
 
 .team-main {
 font-weight: 700;
