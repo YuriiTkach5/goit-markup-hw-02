@@ -81,6 +81,10 @@ letter-spacing: 0.04em;
 color: #FFFFFF;
 }
 
+.button-class {
+cursor: pointer;
+}
+
 /*--------- StraTech---------*/
 
 .StraTech {}
