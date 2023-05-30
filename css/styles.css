@@ -110,6 +110,14 @@ color: #FFFFFF;
 cursor: pointer;
 }
 
+.button-class:hover {
+background-color: #404BBF;
+}
+
+.button-class:focus {
+background-color: #404BBF;
+}
+
 /*--------- StraTech---------*/
 
 .StraTech {}
