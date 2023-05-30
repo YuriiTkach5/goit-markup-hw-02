@@ -22,7 +22,7 @@ text-decoration: none;
 
 /*--------- HEADER---------*/
 
-.header-logo {
+.header-web {
 font-weight: 800;
 font-size: 18px;
 line-height: 1.17px;
@@ -30,10 +30,10 @@ display: flex;
 align-items: center;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: var(--menu-text);
+color: #2E2F42;
 }
 
-.header-logo-color{
+.header-web-color{
 color: #4D5AE5;
 }
 
@@ -42,7 +42,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: var(--menu-text);
+color: #2E2F42;
 }
 
 .header-address-item {
