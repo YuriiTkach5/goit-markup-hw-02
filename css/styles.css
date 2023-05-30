@@ -175,7 +175,9 @@ text-transform: capitalize;
 color: var(--text-h2-h3-p);
 }
 
-.team-item {}
+.team-item {
+background-color: #FFFFFF;
+}
 
 .team-subtitle {
 font-weight: 500;
