@@ -50,6 +50,10 @@ letter-spacing: 0.02em;
 color: #2E2F42;
 }
 
+.header-web-menu:hover {
+ color: #404bbf;
+}
+
 .header-address-item {
 font-weight: 400;
 font-size: 16px;
