@@ -50,7 +50,7 @@ letter-spacing: 0.02em;
 color: #2E2F42;
 }
 
-.header-web-menu:hover {
+.header-web-menu:hover:focus {
  color: #404bbf;
 }
 
