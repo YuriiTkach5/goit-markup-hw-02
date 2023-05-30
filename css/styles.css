@@ -20,6 +20,14 @@ list-style-type: none;
 text-decoration: none;
 }
 
+.link:hover {
+color: #404bbf;
+}
+
+.link:focus {
+color: #404bbf;
+}
+
 .list {
 list-style: none;
 }
