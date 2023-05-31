@@ -202,6 +202,16 @@ color: var(--team-item-text);
 /*---------footer---------*/
 
 .footer{
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.17px;
+display: flex;
+align-items: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #F4F4FD;
 background-color: #2E2F42;
 }
 
