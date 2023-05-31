@@ -211,7 +211,7 @@ display: flex;
 align-items: center;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #F4F4FD;
+color: var(--footer-text);
 background-color: #2E2F42;
 }
 
