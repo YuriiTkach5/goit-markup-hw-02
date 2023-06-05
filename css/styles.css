@@ -251,14 +251,13 @@ cursor: pointer;
 font-family: inherit;
 }
 .btn-title:hover {
-    color: #FFFFFF;
-    background-color: #404BBF;
+color: #FFFFFF;
+background-color: #404BBF;
 
 }
 .btn-title:focus{
-
-    color: #FFFFFF;
-    background-color: #404BBF;
+color: #FFFFFF;
+background-color: #404BBF;
 }
 
 /*---------portfolio-desc--------*/
