@@ -215,11 +215,6 @@ color: var(--footer-text);
 background-color: #2e2f42;
 }
 
-.portfolio {
-background-color: #2e2f42;
-}
-
-
 .footer-logo {
 font-family: 'Raleway';
 font-style: normal;
@@ -274,34 +269,4 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
  color: #434455;
-}
-
-/*---------footer-portfolio---------*/
-
-.footer-portfolio {
-font-family: 'Raleway';
-font-style: normal;
-font-weight: 800;
-font-size: 18px;
-line-height: 1.17;
-display: flex;
-align-items: center;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: var(--footer-text);
-background-color: #2e2f42;
-}
-
-.footer-logo-portfolio {
-color: #2E2F42;
-}
-
-.footer-logo-color-portfolio {}
-
-.footer-text-portfolio {
-font-weight: 400;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: var(--text-h2);
 }
