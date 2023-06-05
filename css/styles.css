@@ -6,6 +6,7 @@
     --team-item-text: #434455;
     --footer-text: #4d5ae5;
     --btn-background: #F4F4FD;
+    --logo-color: #4d5ae5;
 }
 
 body {
@@ -232,7 +233,7 @@ display: flex;
 align-items: center;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #4D5AE5;;
+color: var(--logo-color);
 }
 
 .footer-logo-color {
