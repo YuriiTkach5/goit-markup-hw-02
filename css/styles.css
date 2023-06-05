@@ -256,6 +256,7 @@ color: #4D5AE5;
 font-family: "Roboto";
 background-color: var(--btn-background);
 cursor: pointer;
+font-family: inherit;
 }
 .btn-title:hover {
     color: #FFFFFF;
