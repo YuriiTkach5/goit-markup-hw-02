@@ -215,6 +215,11 @@ color: var(--footer-text);
 background-color: #2e2f42;
 }
 
+.portfolio {
+background-color: #2e2f42;
+}
+
+
 .footer-logo {
 font-family: 'Raleway';
 font-style: normal;
