@@ -73,6 +73,10 @@ color: #2E2F42;
 font-style: normal;
 }
 
+.header-address {
+font-style: normal;
+}
+
 .header-address-item {
 font-weight: 400;
 font-size: 16px;
