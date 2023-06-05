@@ -255,6 +255,10 @@ color: #4D5AE5;
 
 /*---------portfolio-desc--------*/
 
+.portfolio-title {
+display: none;
+}
+
 .desc {}
 
 .desk-item {
